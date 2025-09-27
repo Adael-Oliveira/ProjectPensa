@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const lang = getLanguage();
             const t = translations[lang];
 
-            const whatsappNumber = "5511999998888"; // Número de telefone para contato
+            const whatsappNumber = "595973877007"; // Número de telefone para contato
 
             // Captura os dados do formulário
             const name = document.getElementById('name').value;
